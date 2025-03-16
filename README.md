@@ -1,4 +1,3 @@
-```markdown
 # Wind Turbine Power Output Prediction and Analysis
 
 ## Project Overview
@@ -60,28 +59,3 @@ This project analyzes operational data from wind turbines to predict active powe
 ---
 
 ## Repository Structure
-```
-wind-turbine-analysis/  
-├── data/  
-│   ├── engie_X.csv          # Sensor data  
-│   └── engie_Y.csv          # Power output labels  
-├── dlengie-final.ipynb      # Jupyter notebook with full analysis  
-├── README.md                # Project documentation  
-└── requirements.txt         # Python dependencies  
-```
-
----
-
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/ELOTMANIX/wind-turbine-analysis.git
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Key libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
-
-
-```
