@@ -74,7 +74,7 @@ wind-turbine-analysis/
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ELOTMANIX/wind-turbine-analysis.git
+   git clone https://github.com/ELOTMANIX/Optimisation-de-la-Pr-diction-des-Performances-des-oliennes.git
    ```
 2. Install dependencies:  
    ```bash
